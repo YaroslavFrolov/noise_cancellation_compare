@@ -2,6 +2,7 @@
   "name": "noise_wasm",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://yaroslavFrolov.github.io/noise_cancellation_compare",
   "dependencies": {
     "gh-pages": "^5.0.0",
     "react": "^18.2.0",
