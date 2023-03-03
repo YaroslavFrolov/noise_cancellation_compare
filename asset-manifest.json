@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/noise_cancellation_compare/static/css/main.5931ddb8.css",
+    "main.js": "/noise_cancellation_compare/static/js/main.264080bb.js",
+    "index.html": "/noise_cancellation_compare/index.html",
+    "main.5931ddb8.css.map": "/noise_cancellation_compare/static/css/main.5931ddb8.css.map",
+    "main.264080bb.js.map": "/noise_cancellation_compare/static/js/main.264080bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5931ddb8.css",
+    "static/js/main.264080bb.js"
+  ]
+}
